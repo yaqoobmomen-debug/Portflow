@@ -46,8 +46,8 @@ export default function App() {
         title: "AIMERS — Virtual Interview Platform (Frontend)",
         desc: "Built responsive UI flow, dashboards, components and screens during internship/group work using React/Next.js and Bootstrap.",
         stack: ["React", "Next.js", "Bootstrap", "CSS", "JavaScript"],
-        github: "https://github.com/your-username/aimers-frontend",
-        live: "https://aimers-demo.netlify.app",
+        github: "https://github.com/yaqoobmomen-debug/Aimers",
+        live: "https://aimers-jet.vercel.app/",
       },
       {
         chip: "ML / NLP",
@@ -62,8 +62,8 @@ export default function App() {
         title: "Portflow — Portfolio Website",
         desc: "A modern single-page portfolio with smooth scrolling, section-based flow, and responsive Bootstrap layout.",
         stack: ["React", "Bootstrap", "CSS", "JavaScript"],
-        github: "https://github.com/your-username/portflow",
-        live: "https://portflow.vercel.app",
+        github: "https://github.com/yaqoobmomen-debug/Portflow",
+        live: "https://yaqoobportflow.vercel.app/",
       },
     ],
     []
@@ -337,7 +337,7 @@ export default function App() {
 
       <footer className="py-4 text-center text-muted">
         <div className="container-fluid pf-wide">
-          <div className="pf-wrap">© 2026 Portflow • Frontend Portfolio</div>
+          <div className="pf-wrap">© 2026 Yaqoob Momen • Frontend Portfolio</div>
         </div>
       </footer>
 
@@ -361,8 +361,8 @@ export default function App() {
             <div className="modal-body">
               <p><b>Email:</b> yaqoobmomen@gmail.com</p>
               <p><b>Phone:</b> +91 97631 99604</p>
-              <p><b>LinkedIn:</b> linkedin.com/in/your-profile</p>
-              <p><b>GitHub:</b> github.com/your-username</p>
+              <p><b>LinkedIn:</b> https://www.linkedin.com/in/yaqoob-momen/</p>
+              <p><b>GitHub:</b> https://github.com/yaqoobmomen-debug</p>
             </div>
 
             <div className="modal-footer">
